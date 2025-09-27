@@ -1,0 +1,7 @@
+id             = "sitruuna"
+name           = "Sitruuna Theme"
+description    = "A fresh lemon inspired colorscheme"
+version        = "0.1.0"
+authors        = ["menduz <github@menduz.com>"]
+repository     = "https://github.com/menduz/sitruuna-zed"
+schema_version = 1
